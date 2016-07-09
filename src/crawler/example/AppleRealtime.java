@@ -85,7 +85,7 @@ public class AppleRealtime {
 					counter = 0;
 				}
 			}
-			// test 11
+			// test 112
 			// 計算簡易效率值
 			Integer effect =  counter / diff;
 
